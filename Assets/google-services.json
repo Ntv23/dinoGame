@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113505101322",
+    "firebase_url": "https://vrex-project-default-rtdb.firebaseio.com",
+    "project_id": "vrex-project",
+    "storage_bucket": "vrex-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113505101322:android:0feddd02b1fce2be70a1f3",
+        "android_client_info": {
+          "package_name": "com.example.vrex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113505101322-lu8gn5ie6tntokaegh482nseoq1q22pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vrex",
+            "certificate_hash": "977d0227ef6517d10cc1b986bf44f1c07e074801"
+          }
+        },
+        {
+          "client_id": "113505101322-ft7jpsonlucnr4flnm3ahvtvfh5sjtpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDPYyGab8qgX5jLTqpMhNw7YzdDTg6gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113505101322-ft7jpsonlucnr4flnm3ahvtvfh5sjtpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113505101322-unjvh7s16b1v7ffc0sd16i7hc39n615n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vrex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
